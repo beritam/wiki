@@ -5,9 +5,50 @@
     <description>Berita M Blog</description>
     <link>https://beritam.github.io/wiki/</link>
     <atom:link href="https://beritam.github.io/wiki/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jul 2022 21:32:53 +0300</pubDate>
-    <lastBuildDate>Mon, 18 Jul 2022 21:32:53 +0300</lastBuildDate>
+    <pubDate>Mon, 18 Jul 2022 23:46:29 +0300</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2022 23:46:29 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Berita hari ini di Indonesia</title>
+        <description>&lt;p&gt;Info berita terbaru hari ini baik peristiwa, kecelakaan, kriminal, hukum, berita unik, Politik, dan liputan khusus di Indonesia dan Internasional.&lt;/p&gt;
+
+&lt;h4 id=&quot;metode-cek-fakta&quot;&gt;Metode Cek Fakta&lt;/h4&gt;
+
+&lt;p&gt;Saat ini kita berada di Era ‘Ledakan Informasi’. Seiring perkembangan teknologi, informasi dari berbagai sumber membanjiri internet dan media sosial, hingga menyeruak masuk ke ruang-ruang privat melalui aplikasi perpesanan. Dan, tak semua informasi tersebut adalah benar.&lt;/p&gt;
+
+&lt;p&gt;Salah satu caranya, dengan mengombinasikan hasil reportase jurnalis di lapangan dengan data yang dihimpun Tim Monitoring dan Riset. Misalnya dengan menambahkan infografis ke dalam artikel, atau dengan kata lain, menguji klaim dengan data yang valid.&lt;/p&gt;
+
+&lt;p&gt;Mulai tahun 2015, memiliki Kanal Cek Fakta yang menyajikan artikel verifikasi atas klaim-klaim tertentu secara lebih sistematis dan terstruktur.&lt;/p&gt;
+
+&lt;p&gt;Kanal Cek Fakta tidak hanya berupaya mengklarifikasi klaim-klaim yang beredar di tengah masyarakat maupun yang viral di media sosial, tapi juga memberikan literasi pada para pembaca terkait bagaimana cara mengecek kebenaran sebuah berita atau unggahan secara mandiri.&lt;/p&gt;
+
+&lt;p&gt;Menyadari bahwa perang melawan hoaks tidak bisa dilakukan sendiri oleh para jurnalis. Kami meyakini, dengan memberikan literasi pada masyarakat luas, melalui artikel maupun pelatihan secara langsung, perang melawan kabar dusta bisa dilakukan secara masif dan lebih efektif. Itu mengapa kami bekerja sama dengan media, civil society, dan lembaga lain yang punya komitmen sama untuk melawan kabar dusta&lt;/p&gt;
+
+&lt;p&gt;Pada awal 2020, membuat program Pegiat Cek Fakta atau yang bertujuan melibatkan masyarakat luas dalam proses cek fakta yang dilakukan redaksi.&lt;/p&gt;
+
+&lt;h4 id=&quot;tim-cek-fakta&quot;&gt;Tim Cek Fakta&lt;/h4&gt;
+
+&lt;p&gt;Cek Fakta beranggotakan enam orang, yang merupakan gabungan dari individu-individu yang memiliki latar belakang riset, olah data, dan jurnalis berikut ini.&lt;/p&gt;
+
+&lt;h4 id=&quot;struktur-teks-berita&quot;&gt;Struktur Teks Berita&lt;/h4&gt;
+
+&lt;p&gt;Pada saat mendengarkan teks berita, kira-kira bayangan apa yang muncul di benak teman-teman semuanya? Tentunya saja, hal yang paling identik dengan teks berita adalah koran, majalah, hingga berbagai acara berita di televisi dan kanal sosial media. Dengan semakin berkembangnya teknologi, ada banyak sekali perubahan yang terjadi dalam bidang pemberitaan. Namun, struktur dari teks berita tetaplah sama, justru semakin relevan untuk pembaca.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Jul 2022 00:00:00 +0300</pubDate>
+        <link>https://beritam.github.io/wiki/berita-hari-ini-indonesia/</link>
+        <guid isPermaLink="true">https://beritam.github.io/wiki/berita-hari-ini-indonesia/</guid>
+        
+        <category>red</category>
+        
+        <category>yellow</category>
+        
+        
+        <category>Jekyll</category>
+        
+        <category>tutorial</category>
+        
+      </item>
     
       <item>
         <title>Powerful things you can do with the Markdown editor</title>
@@ -356,29 +397,6 @@
         <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
         <link>https://beritam.github.io/wiki/press-and-education/</link>
         <guid isPermaLink="true">https://beritam.github.io/wiki/press-and-education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>https://beritam.github.io/wiki/options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">https://beritam.github.io/wiki/options-for-creating-new-site-with-jekyll/</guid>
         
         
         <category>Jekyll</category>
